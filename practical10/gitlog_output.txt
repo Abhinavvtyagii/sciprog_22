@@ -1,0 +1,206 @@
+commit f489a82c50a34bf0431ade67512c9c6a3ea0c1ae
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 14:10:33 2022 +0000
+
+    Codes for week 10
+
+commit 28f5605987351a4e0ed6b856beea4a0218476d9a
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 14:00:57 2022 +0000
+
+    Week 9 log file
+
+commit 760984a2125d0076332adca0076a1a7dd85f3ed9
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 13:57:54 2022 +0000
+
+    deleted log file
+
+commit fbf8939b65702693ed63778f1b72ed4c7824d9d8
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 13:54:58 2022 +0000
+
+    Week 9 log file
+
+commit dce971f56026c312d306dd4174cedef3071600e2
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 13:50:24 2022 +0000
+
+    Files of week 9
+
+commit c6240a13fad3c8ff700c7f5599b67dee1996d356
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 11:37:55 2022 +0000
+
+    Week 8 log file
+
+commit 47bcc6db9f85d6490294b4dc9e4615ed42b1b8e4
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 11:34:52 2022 +0000
+
+    Week 8 README file
+
+commit 01bf644ab22b31f0bd1fa971827aa0a708774639
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 11:32:12 2022 +0000
+
+    This is week 8 code
+
+commit 436480ccb3afcf95251dc32159ac1ab41e9c6457
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 11:27:26 2022 +0000
+
+    Week 7 log file
+
+commit 8956fa209859ebeb3b8b9049d390ad13e7221975
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 11:24:43 2022 +0000
+
+    Week 7 README file
+
+commit 6d237944406e386ba5ef92c38a9052662fdfe37a
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 11:21:28 2022 +0000
+
+    These are week 7 Codes
+
+commit e4e69b53484cb37d8c04f9dbb13bd9c70564ae2c
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 11:14:27 2022 +0000
+
+    Week 6 Log File
+
+commit c71ba8914559794977bb893a376b6deab5c3cc9f
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 11:11:47 2022 +0000
+
+    Week 6 README file
+
+commit b218a59bb06aaf6fe3ca7c9b80068f31d1503e0a
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 11:08:45 2022 +0000
+
+    This week 6 code
+
+commit 99ec159113e7e818b1da54a2bf13b59750a24812
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 10:56:36 2022 +0000
+
+    Week 5 log file
+
+commit 01bca46d91731bf6dbe9402803f9cb59d87e461d
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 10:54:06 2022 +0000
+
+    This is README file for week 5
+
+commit 50f5ac93c08395358582f0830aea26ba3c60eb94
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 10:50:04 2022 +0000
+
+    Arctan code
+
+commit 5ff8a32b5daea5d69cdc57c68525aa4229549fcc
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 10:46:00 2022 +0000
+
+    Fibonacci series
+
+commit 0ed23d3fee9ccde8bd37a08b8e688ea160ce4938
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 10:37:34 2022 +0000
+
+    Week 4 log file
+
+commit 886da8867255b2f2d95d0fc3046cb4cccb468922
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 10:34:22 2022 +0000
+
+    Week 4 README file
+
+commit d459d3702d275a3f18620157c9e0d276d0ded101
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 10:25:39 2022 +0000
+
+    Week 4 Arrays Code
+
+commit 3bbacaf244496ca5c240738a541ab7e7cdbbf202
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 10:09:44 2022 +0000
+
+    Log file for week 3
+
+commit 130aa8572e004580d93da4fbaa3ecc9f4c024a39
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 01:22:09 2022 +0000
+
+    Week3 readme file
+
+commit f0b846426603bade8538bd6bad90bb8b7f3ddec8
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 00:06:23 2022 +0000
+
+    Week 3 Readme file
+
+commit 6275c929d79bb35ea16dd3ed2831c9cf3e05f0dd
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 00:01:35 2022 +0000
+
+    This is week 3 code
+
+commit adadaff8b5192280071b2f609b8f5796c8feaf15
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Mon Nov 21 23:55:32 2022 +0000
+
+    This is the log file for week 2
+
+commit bfe54acf21cff97e5b3b81d7722c5044bf57d2db
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Mon Nov 21 23:51:26 2022 +0000
+
+    This week's 2 Readme file
+
+commit 88c54573fa0522b20d4e347f2a327432a20f6d9d
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Mon Nov 21 23:46:30 2022 +0000
+
+    Code for week 2
+
+commit 76e09c8b35d4db82647c69800bd07ff88715c7f7
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Mon Nov 21 23:26:19 2022 +0000
+
+    Update README file
+
+commit dc2584c935ed4720ef7c8786482c4ddd63f88504
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:14:00 2022 +0100
+
+    Update README.md
+
+commit e811d2284ca3ffb2924bab959a842bb3806b35e0
+Merge: 6a5ffb7 d2c301d
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:13:37 2022 +0100
+
+    Merge pull request #1 from buketbenek/Buket_BenekGursoy
+    
+    Update README file
+
+commit d2c301dad05f0c7ff203d4b28e1d8be3ade3c99c
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:11:21 2022 +0100
+
+    Update README file
+
+commit 6a5ffb76f12846d1b0c8cc5d62cf0716a4fda823
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:18:16 2022 +0100
+
+    Update README.md
+
+commit db2e6a8406e8f069576574b3bcdbe338a5827664
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:17:45 2022 +0100
+
+    Initial commit
