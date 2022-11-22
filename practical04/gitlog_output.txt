@@ -1,0 +1,92 @@
+commit 886da8867255b2f2d95d0fc3046cb4cccb468922
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 10:34:22 2022 +0000
+
+    Week 4 README file
+
+commit d459d3702d275a3f18620157c9e0d276d0ded101
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 10:25:39 2022 +0000
+
+    Week 4 Arrays Code
+
+commit 3bbacaf244496ca5c240738a541ab7e7cdbbf202
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 10:09:44 2022 +0000
+
+    Log file for week 3
+
+commit 130aa8572e004580d93da4fbaa3ecc9f4c024a39
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 01:22:09 2022 +0000
+
+    Week3 readme file
+
+commit f0b846426603bade8538bd6bad90bb8b7f3ddec8
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 00:06:23 2022 +0000
+
+    Week 3 Readme file
+
+commit 6275c929d79bb35ea16dd3ed2831c9cf3e05f0dd
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Tue Nov 22 00:01:35 2022 +0000
+
+    This is week 3 code
+
+commit adadaff8b5192280071b2f609b8f5796c8feaf15
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Mon Nov 21 23:55:32 2022 +0000
+
+    This is the log file for week 2
+
+commit bfe54acf21cff97e5b3b81d7722c5044bf57d2db
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Mon Nov 21 23:51:26 2022 +0000
+
+    This week's 2 Readme file
+
+commit 88c54573fa0522b20d4e347f2a327432a20f6d9d
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Mon Nov 21 23:46:30 2022 +0000
+
+    Code for week 2
+
+commit 76e09c8b35d4db82647c69800bd07ff88715c7f7
+Author: Abhinavvtyagii <abhinavvtyagii@gmail.com>
+Date:   Mon Nov 21 23:26:19 2022 +0000
+
+    Update README file
+
+commit dc2584c935ed4720ef7c8786482c4ddd63f88504
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:14:00 2022 +0100
+
+    Update README.md
+
+commit e811d2284ca3ffb2924bab959a842bb3806b35e0
+Merge: 6a5ffb7 d2c301d
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:13:37 2022 +0100
+
+    Merge pull request #1 from buketbenek/Buket_BenekGursoy
+    
+    Update README file
+
+commit d2c301dad05f0c7ff203d4b28e1d8be3ade3c99c
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:11:21 2022 +0100
+
+    Update README file
+
+commit 6a5ffb76f12846d1b0c8cc5d62cf0716a4fda823
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:18:16 2022 +0100
+
+    Update README.md
+
+commit db2e6a8406e8f069576574b3bcdbe338a5827664
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:17:45 2022 +0100
+
+    Initial commit
